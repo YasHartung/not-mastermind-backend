@@ -6,4 +6,4 @@ Ruby/Rails
 
 Video Demo:https://www.youtube.com/watch?v=yaGIcWIKyWM
 
-Frontend:https://github.com/carlypecora/not-mastermind
+Frontend:https://github.com/YasHartung/not-mastermind
